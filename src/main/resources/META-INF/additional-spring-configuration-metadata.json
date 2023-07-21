@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "properties.put(\"mail.smtp.ssl.enable\",",
+    "type": "java.lang.String",
+    "description": "A description for 'properties.put(\"mail.smtp.ssl.enable\",'"
+  },
+  {
+    "name": "properties.put(\"mail.smtp.starttls.enable\",",
+    "type": "java.lang.String",
+    "description": "A description for 'properties.put(\"mail.smtp.starttls.enable\",'"
+  },
+  {
+    "name": "properties.put(\"mail.smtp.ssl.protocols\",",
+    "type": "java.lang.String",
+    "description": "A description for 'properties.put(\"mail.smtp.ssl.protocols\",'"
+  }
+]}
